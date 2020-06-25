@@ -137,9 +137,10 @@ footer a {
 .steps {
     text-align: center;
     background: #fce138;
+    margin-top: 35px;
 }
 .steps div {
-    margin-bottom: 50px;
+    margin-bottom: 35px;
 }
 .steps img {
     width: 15%;
