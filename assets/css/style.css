@@ -109,10 +109,10 @@ footer a {
 .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
+    margin-bottom: 35px;
 }
 .primary-border {
     border-color: #fce138;
@@ -131,7 +131,6 @@ footer a {
     font-size: 20px;
     /* Add This Alongside Your Other Declarations */
     margin: 0 auto;
-    margin-bottom: 20px;
 }
 
 /* WHAT YOU DO STEPS START */
@@ -139,8 +138,8 @@ footer a {
     text-align: center;
     background: #fce138;
 }
-.step div {
-    margin-bottom: 80px;
+.steps div {
+    margin-bottom: 50px;
 }
 .steps img {
     width: 15%;
@@ -149,7 +148,6 @@ footer a {
 .steps h3 {
     color: #024e76;
     font-size: 46px;
-    margin-top: 20px;
 }
 .steps span {
     font-size: 38px;
@@ -157,7 +155,6 @@ footer a {
 .steps p {
     color: #39a6b2;
     font-size: 23px;
-    margin-bottom: 20px;
 }
 /* WHAT YOU DO STEPS END */
 
@@ -202,7 +199,7 @@ footer a {
 }
 /* TRAINERS BIO END */
 
-/* REACH OUT START */
+/* REACH OUT STYLES START */
 .contact {
     text-align: center;
     background: #024e76;
@@ -213,6 +210,7 @@ footer a {
 .contact-info iframe {
     width: 400px;
     height: 400px;
+    margin-bottom: 50px;
 }
 .contact-info div {
     width: 410px;
@@ -222,3 +220,17 @@ footer a {
     margin: 30px 0 0 60px;
     color: white;
 }
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+.contact-info a {
+    color: #fce138;
+}
+/* REACH OUT STYLES END */
