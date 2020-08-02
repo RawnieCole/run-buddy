@@ -8,7 +8,10 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, Sans-Serif;
 }
-/* Applies 20px to every side (top, right, bottom, left */
+
+/* HEADER / NAV STYLE START */
+
+    /* Applies 20px to every side (top, right, bottom, left */
 header {
     padding: 20px;
     background-color: #39a6b2;
@@ -41,7 +44,9 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 1.55vw;
 }
+/* HEADER / NAV STYLE END */
 
+/* FOOTER STYLE START */
 footer {
     background: #fce138;
     width: 100%;
@@ -62,6 +67,7 @@ footer div {
 footer a {
     color: #024e76;
 }
+/* FOOTER STYLE END */
 
 /* HERO STYLE START */
 .hero {
@@ -124,6 +130,7 @@ footer a {
 }
 /* HERO STYLE END */
 
+/* SECTION TITLES START */
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -147,6 +154,7 @@ footer a {
     margin: 0 auto;
     text-align: center;
 }
+/* SECTION TITLES END */
 
 /* WHAT YOU DO STEPS START */
 .steps {
