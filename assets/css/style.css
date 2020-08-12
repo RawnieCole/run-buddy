@@ -316,6 +316,7 @@ footer a {
     flex: 12;
 }
 
+.step-text p {
     color: var(--tertiary-color);
     font-size: 18px;
 }
